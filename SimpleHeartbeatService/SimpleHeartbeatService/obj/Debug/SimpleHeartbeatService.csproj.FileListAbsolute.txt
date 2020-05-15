@@ -1,0 +1,12 @@
+C:\csharp\heartbeat\SimpleHeartbeatService\SimpleHeartbeatService\obj\Debug\SimpleHeartbeatService.csprojAssemblyReference.cache
+C:\csharp\heartbeat\SimpleHeartbeatService\SimpleHeartbeatService\obj\Debug\SimpleHeartbeatService.csproj.CoreCompileInputs.cache
+C:\csharp\heartbeat\SimpleHeartbeatService\SimpleHeartbeatService\bin\Debug\SimpleHeartbeatService.exe.config
+C:\csharp\heartbeat\SimpleHeartbeatService\SimpleHeartbeatService\bin\Debug\SimpleHeartbeatService.exe
+C:\csharp\heartbeat\SimpleHeartbeatService\SimpleHeartbeatService\bin\Debug\SimpleHeartbeatService.pdb
+C:\csharp\heartbeat\SimpleHeartbeatService\SimpleHeartbeatService\bin\Debug\Topshelf.dll
+C:\csharp\heartbeat\SimpleHeartbeatService\SimpleHeartbeatService\bin\Debug\Topshelf.xml
+C:\csharp\heartbeat\SimpleHeartbeatService\SimpleHeartbeatService\obj\Debug\SimpleHeartbeatService.csproj.CopyComplete
+C:\csharp\heartbeat\SimpleHeartbeatService\SimpleHeartbeatService\obj\Debug\SimpleHeartbeatService.exe
+C:\csharp\heartbeat\SimpleHeartbeatService\SimpleHeartbeatService\obj\Debug\SimpleHeartbeatService.pdb
+C:\csharp\heartbeat\SimpleHeartbeatService\SimpleHeartbeatService\bin\Debug\Newtonsoft.Json.dll
+C:\csharp\heartbeat\SimpleHeartbeatService\SimpleHeartbeatService\bin\Debug\Newtonsoft.Json.xml
