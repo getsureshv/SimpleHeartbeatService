@@ -1,16 +1,24 @@
 # WeatherWindowsService
-C# Project to Download Weather info for Dallas tx
+C# Project to Download Weather info for Dallas tx and writes to a csv file with following info.
+Temperature (numeric value)
+Units (C/F)
+Precipitation (true/false)
 
 Project uses 
    This project based on Console application and uses Topshelf and NewtonsoftJson libraries to do the task.
-   http://api.openweathermap.org/ api to download weather info 
-   AppID (&appid=7a47ca23234371289e9f4549179c8bfa)
-   Dallas Texas (Hardcoded) "q=Dallas,Texas"
-   Units / Unit of Temperature is in  Fahrenheit (&units=Imperial)
-   If service started or run from command line , gathers info every 5 minutes
+   http://api.openweathermap.org/ api to download weather info. 
    
- Gathers information in JSON (Return format)
+   AppID (&appid=7a47ca23234371289e9f4549179c8bfa).
+   
+   Dallas Texas (Hardcoded) "q=Dallas,Texas".
+   
+   Units / Unit of Temperature is in  Fahrenheit (&units=Imperial).
+   
+   If service started or run from command line , gathers info every 5 minutes. 
+   
+   Gathers information in JSON (Return format)
  
+ Write CSV file
  Writes to fold c:\\temp (assumes its windows and c:\temp exists)
  Writes to a CSV file "Weather.csv"
  It creates file if not exists.
